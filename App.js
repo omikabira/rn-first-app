@@ -13,7 +13,7 @@ export default function App() {
       <View>
       <Header
         leftComponent={{ icon: 'menu', color: '#fff' }}
-        centerComponent={{ text: 'Simple Youtube Search', style: { color: '#fff' } }}
+        centerComponent={{ text: 'Git Edited', style: { color: '#fff' } }}
         rightComponent={{ icon: 'home', color: '#fff' }}
         containerStyle={{backgroundColor:'red'}}
       />
